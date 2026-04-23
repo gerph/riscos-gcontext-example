@@ -51,7 +51,6 @@ void draw_text_diagram(gcontext_t *gcontext,
 void testgcontext(void)
 {
     gcontext_t *gcontext = gcontext_initvdu(2);
-    int y;
 
     gcontext->rectangle_fill(gcontext, 0x81397900, 64, 64, 500,500);
 
