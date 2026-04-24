@@ -1,7 +1,7 @@
 # RISC OS GContext example code
 
 This repository contains some example code showing how you might use
-the [GContext library](https://github.com/gerph/riscos-gcontext].
+the [GContext library](https://github.com/gerph/riscos-gcontext).
 It demonstrates the creation of contexts, the use of font handles
 to render font strings (0-terminated and explicitly sized), and the
 distinction between the width of text (xoffset + r-bearing) and the
